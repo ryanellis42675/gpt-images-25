@@ -1,0 +1,25 @@
+{
+  "name": "gpt-images-25",
+  "version": "0.1.0",
+  "description": "Official client SDK and prompt utilities for GPT images 2.5 - Free AI Image Generator & Editor Online (https://images25.art)",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "homepage": "https://images25.art",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanellis42675/gpt-images-25.git"
+  },
+  "bugs": {
+    "url": "https://images25.art"
+  },
+  "keywords": [
+    "gpt-images-25",
+    "ai-image-generator",
+    "image-editor",
+    "gpt-images",
+    "photo-editor",
+    "text-to-image"
+  ],
+  "author": "GPT images 2.5 Team <ryanellis42675@gmail.com> (https://images25.art)",
+  "license": "MIT"
+}

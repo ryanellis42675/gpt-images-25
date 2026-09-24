@@ -1,0 +1,14 @@
+[package]
+name = "gpt_images_25"
+version = "0.1.0"
+edition = "2021"
+description = "Official client SDK wrapper and metadata for GPT images 2.5 (https://images25.art)"
+homepage = "https://images25.art"
+repository = "https://github.com/ryanellis42675/gpt-images-25"
+documentation = "https://docs.rs/gpt_images_25"
+license = "MIT"
+readme = "README.md"
+keywords = ["ai", "image-generator", "gpt-images", "editor", "images25"]
+categories = ["multimedia", "web-programming"]
+
+[dependencies]

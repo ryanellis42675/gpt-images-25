@@ -1,0 +1,26 @@
+{
+  "name": "ryanellis42675/gpt-images-25",
+  "description": "Official SDK and metadata helper for GPT images 2.5 ( https://images25.art )",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://images25.art",
+  "authors": [
+    {
+      "name": "GPT images 2.5 Team",
+      "email": "ryanellis42675@gmail.com",
+      "homepage": "https://images25.art"
+    }
+  ],
+  "support": {
+    "issues": "https://images25.art",
+    "source": "https://github.com/ryanellis42675/gpt-images-25"
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "GptImages25\\": "src/"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name: gpt_images_25
+description: Official client SDK and integration helper for GPT images 2.5 (https://images25.art) - Free AI image generator and editor.
+version: 0.1.0
+homepage: https://images25.art
+repository: https://github.com/ryanellis42675/gpt-images-25
+issue_tracker: https://images25.art
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+topics:
+  - ai
+  - image-generator
+  - photo-editor
+  - gpt-images

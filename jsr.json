@@ -1,0 +1,5 @@
+{
+  "name": "@ryanellis42675/gpt-images-25",
+  "version": "0.1.0",
+  "exports": "./mod.ts"
+}
