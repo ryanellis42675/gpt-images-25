@@ -1,0 +1,9 @@
+.npmrc
+target/
+dist/
+*.gem
+*.egg-info/
+Cargo.lock
+__pycache__/
+*.whl
+*.tar.gz

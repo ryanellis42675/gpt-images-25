@@ -4,6 +4,11 @@
   "description": "Official client SDK and prompt utilities for GPT images 2.5 - Free AI Image Generator & Editor Online (https://images25.art)",
   "main": "index.js",
   "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
   "homepage": "https://images25.art",
   "repository": {
     "type": "git",

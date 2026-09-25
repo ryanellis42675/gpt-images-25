@@ -10,5 +10,6 @@ license = "MIT"
 readme = "README.md"
 keywords = ["ai", "image-generator", "gpt-images", "editor", "images25"]
 categories = ["multimedia", "web-programming"]
+include = ["src/**/*", "Cargo.toml", "README.md"]
 
 [dependencies]

@@ -1,5 +1,13 @@
 {
-  "name": "@ryanellis42675/gpt-images-25",
+  "name": "@ryanellis/gpt-images-25",
   "version": "0.1.0",
-  "exports": "./mod.ts"
+  "license": "MIT",
+  "exports": "./mod.ts",
+  "publish": {
+    "include": [
+      "mod.ts",
+      "README.md",
+      "jsr.json"
+    ]
+  }
 }
