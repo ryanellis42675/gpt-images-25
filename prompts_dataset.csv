@@ -1,0 +1,6 @@
+id,category,prompt,aspect_ratio,engine,homepage
+1,Photorealistic,"A cyberpunk street market at dusk with vibrant neon lanterns, wet pavement reflections, volumetric fog",16:9,flare-2.5,https://images25.art
+2,Cinematic Portrait,"Studio portrait of an elderly watchmaker with intricate brass magnifying lenses, soft directional key lighting",1:1,flare-2.5,https://images25.art
+3,Landscape,"Bioluminescent coastal cliff at twilight, glowing algae in gentle ocean waves, starry night sky",16:9,flare-2.5,https://images25.art
+4,Architecture,"Futuristic eco-friendly solar skyscraper surrounded by lush vertical forest gardens, sunny day, architectural photography",9:16,flare-2.5,https://images25.art
+5,Conversational Inpaint,"Add delicate golden filigree details onto the ceramic vase in center frame, preserve original shadow tone",1:1,flare-2.5,https://images25.art
