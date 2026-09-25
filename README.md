@@ -6,6 +6,7 @@
 [![crates.io](https://img.shields.io/crates/v/gpt_images_25.svg)](https://crates.io/crates/gpt_images_25)
 [![docs.rs](https://docs.rs/gpt_images_25/badge.svg)](https://docs.rs/gpt_images_25)
 [![npm version](https://img.shields.io/npm/v/gpt-images-25.svg)](https://www.npmjs.com/package/gpt-images-25)
+[![JSR](https://jsr.io/badges/@ryanellis/gpt-images-25)](https://jsr.io/@ryanellis/gpt-images-25)
 [![PyPI version](https://img.shields.io/pypi/v/gpt-images-25.svg)](https://pypi.org/project/gpt-images-25/)
 [![pub package](https://img.shields.io/pub/v/gpt_images_25.svg)](https://pub.dev/packages/gpt_images_25)
 [![Gem Version](https://badge.fury.io/rb/gpt_images_25.svg)](https://rubygems.org/gems/gpt_images_25)
@@ -43,32 +44,38 @@ npm install gpt-images-25
 ```
 Package page: [npmjs.com/package/gpt-images-25](https://www.npmjs.com/package/gpt-images-25)
 
-### 3. Python (PyPI)
+### 3. JSR (Deno / Node / Bun / Cloudflare)
+```bash
+npx jsr add @ryanellis/gpt-images-25
+```
+Package page: [jsr.io/@ryanellis/gpt-images-25](https://jsr.io/@ryanellis/gpt-images-25)
+
+### 4. Python (PyPI)
 ```bash
 pip install gpt-images-25
 ```
 Package page: [pypi.org/project/gpt-images-25/](https://pypi.org/project/gpt-images-25/)
 
-### 4. Rust (Cargo)
+### 5. Rust (Cargo)
 ```toml
 [dependencies]
 gpt_images_25 = "0.1.0"
 ```
 Documentation: [docs.rs/gpt_images_25](https://docs.rs/gpt_images_25)
 
-### 5. PHP (Composer)
+### 6. PHP (Composer)
 ```bash
 composer require ryanellis42675/gpt-images-25
 ```
 Package page: [packagist.org/packages/ryanellis42675/gpt-images-25](https://packagist.org/packages/ryanellis42675/gpt-images-25)
 
-### 6. Dart / Flutter (Pub.dev)
+### 7. Dart / Flutter (Pub.dev)
 ```bash
 dart pub add gpt_images_25
 ```
 Package page: [pub.dev/packages/gpt_images_25](https://pub.dev/packages/gpt_images_25)
 
-### 7. Ruby (RubyGems)
+### 8. Ruby (RubyGems)
 ```bash
 gem install gpt_images_25
 ```
