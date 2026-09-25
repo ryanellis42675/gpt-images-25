@@ -7,3 +7,4 @@ Cargo.lock
 __pycache__/
 *.whl
 *.tar.gz
+clojars/

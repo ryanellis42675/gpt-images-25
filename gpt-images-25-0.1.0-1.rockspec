@@ -1,7 +1,7 @@
 package = "gpt-images-25"
 version = "0.1.0-1"
 source = {
-   url = "git://github.com/ryanellis42675/gpt-images-25.git",
+   url = "git+https://github.com/ryanellis42675/gpt-images-25.git",
    tag = "v0.1.0"
 }
 description = {
