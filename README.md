@@ -10,6 +10,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/gpt-images-25.svg)](https://pypi.org/project/gpt-images-25/)
 [![pub package](https://img.shields.io/pub/v/gpt_images_25.svg)](https://pub.dev/packages/gpt_images_25)
 [![Gem Version](https://badge.fury.io/rb/gpt_images_25.svg)](https://rubygems.org/gems/gpt_images_25)
+[![JitPack](https://jitpack.io/v/ryanellis42675/gpt-images-25.svg)](https://jitpack.io/#ryanellis42675/gpt-images-25)
 
 Official multi-language client SDK, metadata helper, and prompt integration utilities for **[GPT images 2.5](https://images25.art)**.
 
@@ -80,6 +81,16 @@ Package page: [pub.dev/packages/gpt_images_25](https://pub.dev/packages/gpt_imag
 gem install gpt_images_25
 ```
 Package page: [rubygems.org/gems/gpt_images_25](https://rubygems.org/gems/gpt_images_25)
+
+### 9. Java / Android (JitPack)
+```xml
+<dependency>
+    <groupId>com.github.ryanellis42675</groupId>
+    <artifactId>gpt-images-25</artifactId>
+    <version>v0.1.1</version>
+</dependency>
+```
+Package page: [jitpack.io/#ryanellis42675/gpt-images-25](https://jitpack.io/#ryanellis42675/gpt-images-25)
 
 ---
 
